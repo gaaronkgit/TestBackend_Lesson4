@@ -1,0 +1,12 @@
+{
+"firstname": "Dmitriy",
+"lastname": "Smirnov",
+"totalprice": 1000,
+"depositpaid": true,
+"bookingdates": 
+{
+"checkin": "2020-03-10",
+"checkout": "2020-03-20"
+},
+"additionalneeds": "Breakfast"
+}
